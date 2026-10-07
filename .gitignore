@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+dist-ssr/
+
+# Environment variables (copy .env.example instead)
+.env
+.env.local
+
+# Runtime data (generated on first run)
+backend/runtime-data/
+
+# Logs
+npm-debug.log*
+*.log
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/

@@ -1,0 +1,2357 @@
+[
+  {
+    "id": "chicken-breast-cooked",
+    "name": "Chicken breast, cooked",
+    "category": "protein",
+    "aliases": [
+      "grilled chicken breast",
+      "chicken breast",
+      "chicken"
+    ],
+    "per100g": {
+      "calories": 165,
+      "protein_g": 31,
+      "carbs_g": 0,
+      "fat_g": 3.6,
+      "fiber_g": 0,
+      "sugar_g": 0,
+      "sodium_mg": 74
+    },
+    "commonServing": null
+  },
+  {
+    "id": "chicken-thigh-cooked",
+    "name": "Chicken thigh, cooked",
+    "category": "protein",
+    "aliases": [
+      "chicken thigh"
+    ],
+    "per100g": {
+      "calories": 209,
+      "protein_g": 26,
+      "carbs_g": 0,
+      "fat_g": 10.9,
+      "fiber_g": 0,
+      "sugar_g": 0,
+      "sodium_mg": 84
+    },
+    "commonServing": null
+  },
+  {
+    "id": "turkey-breast-cooked",
+    "name": "Turkey breast, cooked",
+    "category": "protein",
+    "aliases": [
+      "turkey breast",
+      "turkey"
+    ],
+    "per100g": {
+      "calories": 135,
+      "protein_g": 30,
+      "carbs_g": 0,
+      "fat_g": 1,
+      "fiber_g": 0,
+      "sugar_g": 0,
+      "sodium_mg": 63
+    },
+    "commonServing": null
+  },
+  {
+    "id": "ground-beef-85-lean-cooked",
+    "name": "Ground beef 85% lean, cooked",
+    "category": "protein",
+    "aliases": [
+      "ground beef",
+      "beef mince",
+      "hamburger meat"
+    ],
+    "per100g": {
+      "calories": 250,
+      "protein_g": 26,
+      "carbs_g": 0,
+      "fat_g": 15,
+      "fiber_g": 0,
+      "sugar_g": 0,
+      "sodium_mg": 75
+    },
+    "commonServing": null
+  },
+  {
+    "id": "beef-sirloin-steak-cooked",
+    "name": "Beef sirloin steak, cooked",
+    "category": "protein",
+    "aliases": [
+      "steak",
+      "sirloin",
+      "beef steak"
+    ],
+    "per100g": {
+      "calories": 206,
+      "protein_g": 29,
+      "carbs_g": 0,
+      "fat_g": 9,
+      "fiber_g": 0,
+      "sugar_g": 0,
+      "sodium_mg": 56
+    },
+    "commonServing": null
+  },
+  {
+    "id": "pork-chop-cooked",
+    "name": "Pork chop, cooked",
+    "category": "protein",
+    "aliases": [
+      "pork chop",
+      "pork"
+    ],
+    "per100g": {
+      "calories": 231,
+      "protein_g": 27,
+      "carbs_g": 0,
+      "fat_g": 13,
+      "fiber_g": 0,
+      "sugar_g": 0,
+      "sodium_mg": 58
+    },
+    "commonServing": null
+  },
+  {
+    "id": "bacon-cooked",
+    "name": "Bacon, cooked",
+    "category": "protein",
+    "aliases": [
+      "bacon strips"
+    ],
+    "per100g": {
+      "calories": 541,
+      "protein_g": 37,
+      "carbs_g": 1.4,
+      "fat_g": 42,
+      "fiber_g": 0,
+      "sugar_g": 0,
+      "sodium_mg": 1717
+    },
+    "commonServing": {
+      "grams": 8,
+      "label": "1 slice"
+    }
+  },
+  {
+    "id": "salmon-cooked",
+    "name": "Salmon, cooked",
+    "category": "protein",
+    "aliases": [
+      "grilled salmon",
+      "salmon fillet"
+    ],
+    "per100g": {
+      "calories": 208,
+      "protein_g": 20,
+      "carbs_g": 0,
+      "fat_g": 13,
+      "fiber_g": 0,
+      "sugar_g": 0,
+      "sodium_mg": 59
+    },
+    "commonServing": null
+  },
+  {
+    "id": "tuna-canned-in-water",
+    "name": "Tuna, canned in water",
+    "category": "protein",
+    "aliases": [
+      "canned tuna",
+      "tuna"
+    ],
+    "per100g": {
+      "calories": 116,
+      "protein_g": 26,
+      "carbs_g": 0,
+      "fat_g": 1,
+      "fiber_g": 0,
+      "sugar_g": 0,
+      "sodium_mg": 247
+    },
+    "commonServing": null
+  },
+  {
+    "id": "shrimp-cooked",
+    "name": "Shrimp, cooked",
+    "category": "protein",
+    "aliases": [
+      "prawns",
+      "shrimp"
+    ],
+    "per100g": {
+      "calories": 99,
+      "protein_g": 24,
+      "carbs_g": 0.2,
+      "fat_g": 0.3,
+      "fiber_g": 0,
+      "sugar_g": 0,
+      "sodium_mg": 111
+    },
+    "commonServing": null
+  },
+  {
+    "id": "cod-cooked",
+    "name": "Cod, cooked",
+    "category": "protein",
+    "aliases": [
+      "white fish",
+      "cod fillet"
+    ],
+    "per100g": {
+      "calories": 105,
+      "protein_g": 23,
+      "carbs_g": 0,
+      "fat_g": 0.9,
+      "fiber_g": 0,
+      "sugar_g": 0,
+      "sodium_mg": 78
+    },
+    "commonServing": null
+  },
+  {
+    "id": "egg-whole-cooked",
+    "name": "Egg, whole, cooked",
+    "category": "protein",
+    "aliases": [
+      "eggs",
+      "boiled egg",
+      "fried egg"
+    ],
+    "per100g": {
+      "calories": 155,
+      "protein_g": 13,
+      "carbs_g": 1.1,
+      "fat_g": 11,
+      "fiber_g": 0,
+      "sugar_g": 1.1,
+      "sodium_mg": 124
+    },
+    "commonServing": {
+      "grams": 50,
+      "label": "1 large egg"
+    }
+  },
+  {
+    "id": "egg-white",
+    "name": "Egg white",
+    "category": "protein",
+    "aliases": [
+      "egg whites"
+    ],
+    "per100g": {
+      "calories": 52,
+      "protein_g": 11,
+      "carbs_g": 0.7,
+      "fat_g": 0.2,
+      "fiber_g": 0,
+      "sugar_g": 0.7,
+      "sodium_mg": 166
+    },
+    "commonServing": {
+      "grams": 33,
+      "label": "1 large egg white"
+    }
+  },
+  {
+    "id": "tofu-firm",
+    "name": "Tofu, firm",
+    "category": "protein",
+    "aliases": [
+      "bean curd"
+    ],
+    "per100g": {
+      "calories": 144,
+      "protein_g": 15.8,
+      "carbs_g": 2.8,
+      "fat_g": 8.7,
+      "fiber_g": 0.3,
+      "sugar_g": 0.6,
+      "sodium_mg": 14
+    },
+    "commonServing": null
+  },
+  {
+    "id": "tempeh",
+    "name": "Tempeh",
+    "category": "protein",
+    "aliases": [],
+    "per100g": {
+      "calories": 192,
+      "protein_g": 20.3,
+      "carbs_g": 7.6,
+      "fat_g": 10.8,
+      "fiber_g": 0,
+      "sugar_g": 0,
+      "sodium_mg": 9
+    },
+    "commonServing": null
+  },
+  {
+    "id": "black-beans-cooked",
+    "name": "Black beans, cooked",
+    "category": "protein",
+    "aliases": [
+      "black beans"
+    ],
+    "per100g": {
+      "calories": 132,
+      "protein_g": 8.9,
+      "carbs_g": 23.7,
+      "fat_g": 0.5,
+      "fiber_g": 8.7,
+      "sugar_g": 0.3,
+      "sodium_mg": 1
+    },
+    "commonServing": null
+  },
+  {
+    "id": "chickpeas-cooked",
+    "name": "Chickpeas, cooked",
+    "category": "protein",
+    "aliases": [
+      "garbanzo beans",
+      "chickpeas"
+    ],
+    "per100g": {
+      "calories": 164,
+      "protein_g": 8.9,
+      "carbs_g": 27.4,
+      "fat_g": 2.6,
+      "fiber_g": 7.6,
+      "sugar_g": 4.8,
+      "sodium_mg": 7
+    },
+    "commonServing": null
+  },
+  {
+    "id": "lentils-cooked",
+    "name": "Lentils, cooked",
+    "category": "protein",
+    "aliases": [
+      "lentils",
+      "dal"
+    ],
+    "per100g": {
+      "calories": 116,
+      "protein_g": 9,
+      "carbs_g": 20.1,
+      "fat_g": 0.4,
+      "fiber_g": 7.9,
+      "sugar_g": 1.8,
+      "sodium_mg": 2
+    },
+    "commonServing": null
+  },
+  {
+    "id": "kidney-beans-cooked",
+    "name": "Kidney beans, cooked",
+    "category": "protein",
+    "aliases": [
+      "kidney beans"
+    ],
+    "per100g": {
+      "calories": 127,
+      "protein_g": 8.7,
+      "carbs_g": 22.8,
+      "fat_g": 0.5,
+      "fiber_g": 6.4,
+      "sugar_g": 0.3,
+      "sodium_mg": 2
+    },
+    "commonServing": null
+  },
+  {
+    "id": "edamame-cooked",
+    "name": "Edamame, cooked",
+    "category": "protein",
+    "aliases": [
+      "edamame beans"
+    ],
+    "per100g": {
+      "calories": 121,
+      "protein_g": 11.9,
+      "carbs_g": 8.9,
+      "fat_g": 5.2,
+      "fiber_g": 5.2,
+      "sugar_g": 2.2,
+      "sodium_mg": 6
+    },
+    "commonServing": null
+  },
+  {
+    "id": "white-rice-cooked",
+    "name": "White rice, cooked",
+    "category": "grain",
+    "aliases": [
+      "rice",
+      "steamed rice"
+    ],
+    "per100g": {
+      "calories": 130,
+      "protein_g": 2.7,
+      "carbs_g": 28.2,
+      "fat_g": 0.3,
+      "fiber_g": 0.4,
+      "sugar_g": 0.1,
+      "sodium_mg": 1
+    },
+    "commonServing": {
+      "grams": 158,
+      "label": "1 cup"
+    }
+  },
+  {
+    "id": "brown-rice-cooked",
+    "name": "Brown rice, cooked",
+    "category": "grain",
+    "aliases": [
+      "brown rice"
+    ],
+    "per100g": {
+      "calories": 112,
+      "protein_g": 2.3,
+      "carbs_g": 23.5,
+      "fat_g": 0.8,
+      "fiber_g": 1.8,
+      "sugar_g": 0.4,
+      "sodium_mg": 4
+    },
+    "commonServing": {
+      "grams": 195,
+      "label": "1 cup"
+    }
+  },
+  {
+    "id": "quinoa-cooked",
+    "name": "Quinoa, cooked",
+    "category": "grain",
+    "aliases": [
+      "quinoa"
+    ],
+    "per100g": {
+      "calories": 120,
+      "protein_g": 4.4,
+      "carbs_g": 21.3,
+      "fat_g": 1.9,
+      "fiber_g": 2.8,
+      "sugar_g": 0.9,
+      "sodium_mg": 7
+    },
+    "commonServing": {
+      "grams": 185,
+      "label": "1 cup"
+    }
+  },
+  {
+    "id": "oats-dry",
+    "name": "Oats, dry",
+    "category": "grain",
+    "aliases": [
+      "rolled oats",
+      "oatmeal dry"
+    ],
+    "per100g": {
+      "calories": 389,
+      "protein_g": 16.9,
+      "carbs_g": 66.3,
+      "fat_g": 6.9,
+      "fiber_g": 10.6,
+      "sugar_g": 0.99,
+      "sodium_mg": 2
+    },
+    "commonServing": {
+      "grams": 40,
+      "label": "1/2 cup"
+    }
+  },
+  {
+    "id": "oatmeal-cooked",
+    "name": "Oatmeal, cooked",
+    "category": "grain",
+    "aliases": [
+      "porridge"
+    ],
+    "per100g": {
+      "calories": 71,
+      "protein_g": 2.5,
+      "carbs_g": 12,
+      "fat_g": 1.5,
+      "fiber_g": 1.7,
+      "sugar_g": 0.3,
+      "sodium_mg": 49
+    },
+    "commonServing": {
+      "grams": 234,
+      "label": "1 cup"
+    }
+  },
+  {
+    "id": "white-bread",
+    "name": "White bread",
+    "category": "grain",
+    "aliases": [
+      "bread",
+      "toast"
+    ],
+    "per100g": {
+      "calories": 265,
+      "protein_g": 9,
+      "carbs_g": 49,
+      "fat_g": 3.2,
+      "fiber_g": 2.7,
+      "sugar_g": 5,
+      "sodium_mg": 491
+    },
+    "commonServing": {
+      "grams": 28,
+      "label": "1 slice"
+    }
+  },
+  {
+    "id": "whole-wheat-bread",
+    "name": "Whole wheat bread",
+    "category": "grain",
+    "aliases": [
+      "wheat bread",
+      "brown bread"
+    ],
+    "per100g": {
+      "calories": 247,
+      "protein_g": 13,
+      "carbs_g": 41,
+      "fat_g": 3.4,
+      "fiber_g": 6.8,
+      "sugar_g": 5.6,
+      "sodium_mg": 400
+    },
+    "commonServing": {
+      "grams": 28,
+      "label": "1 slice"
+    }
+  },
+  {
+    "id": "pasta-cooked",
+    "name": "Pasta, cooked",
+    "category": "grain",
+    "aliases": [
+      "spaghetti",
+      "noodles",
+      "pasta"
+    ],
+    "per100g": {
+      "calories": 131,
+      "protein_g": 5,
+      "carbs_g": 25,
+      "fat_g": 1.1,
+      "fiber_g": 1.8,
+      "sugar_g": 0.6,
+      "sodium_mg": 1
+    },
+    "commonServing": {
+      "grams": 140,
+      "label": "1 cup"
+    }
+  },
+  {
+    "id": "whole-wheat-pasta-cooked",
+    "name": "Whole wheat pasta, cooked",
+    "category": "grain",
+    "aliases": [
+      "whole wheat spaghetti"
+    ],
+    "per100g": {
+      "calories": 124,
+      "protein_g": 5.3,
+      "carbs_g": 26.5,
+      "fat_g": 1.1,
+      "fiber_g": 3.9,
+      "sugar_g": 0.8,
+      "sodium_mg": 4
+    },
+    "commonServing": {
+      "grams": 140,
+      "label": "1 cup"
+    }
+  },
+  {
+    "id": "potato-baked-with-skin",
+    "name": "Potato, baked with skin",
+    "category": "grain",
+    "aliases": [
+      "baked potato",
+      "jacket potato",
+      "potato"
+    ],
+    "per100g": {
+      "calories": 93,
+      "protein_g": 2.5,
+      "carbs_g": 21.1,
+      "fat_g": 0.1,
+      "fiber_g": 2.2,
+      "sugar_g": 1.2,
+      "sodium_mg": 6
+    },
+    "commonServing": {
+      "grams": 173,
+      "label": "1 medium"
+    }
+  },
+  {
+    "id": "sweet-potato-baked",
+    "name": "Sweet potato, baked",
+    "category": "grain",
+    "aliases": [
+      "sweet potato",
+      "yam"
+    ],
+    "per100g": {
+      "calories": 90,
+      "protein_g": 2,
+      "carbs_g": 20.7,
+      "fat_g": 0.2,
+      "fiber_g": 3.3,
+      "sugar_g": 6.5,
+      "sodium_mg": 36
+    },
+    "commonServing": {
+      "grams": 114,
+      "label": "1 medium"
+    }
+  },
+  {
+    "id": "corn-cooked",
+    "name": "Corn, cooked",
+    "category": "grain",
+    "aliases": [
+      "corn on the cob",
+      "sweetcorn"
+    ],
+    "per100g": {
+      "calories": 96,
+      "protein_g": 3.4,
+      "carbs_g": 21,
+      "fat_g": 1.5,
+      "fiber_g": 2.4,
+      "sugar_g": 4.5,
+      "sodium_mg": 15
+    },
+    "commonServing": {
+      "grams": 90,
+      "label": "1/2 cup"
+    }
+  },
+  {
+    "id": "couscous-cooked",
+    "name": "Couscous, cooked",
+    "category": "grain",
+    "aliases": [
+      "couscous"
+    ],
+    "per100g": {
+      "calories": 112,
+      "protein_g": 3.8,
+      "carbs_g": 23.2,
+      "fat_g": 0.2,
+      "fiber_g": 1.4,
+      "sugar_g": 0.1,
+      "sodium_mg": 5
+    },
+    "commonServing": {
+      "grams": 157,
+      "label": "1 cup"
+    }
+  },
+  {
+    "id": "flour-tortilla",
+    "name": "Flour tortilla",
+    "category": "grain",
+    "aliases": [
+      "tortilla",
+      "wrap"
+    ],
+    "per100g": {
+      "calories": 312,
+      "protein_g": 8.2,
+      "carbs_g": 51,
+      "fat_g": 7.6,
+      "fiber_g": 2.9,
+      "sugar_g": 2.9,
+      "sodium_mg": 604
+    },
+    "commonServing": {
+      "grams": 49,
+      "label": "1 medium"
+    }
+  },
+  {
+    "id": "bagel-plain",
+    "name": "Bagel, plain",
+    "category": "grain",
+    "aliases": [
+      "bagel"
+    ],
+    "per100g": {
+      "calories": 250,
+      "protein_g": 10,
+      "carbs_g": 49,
+      "fat_g": 1.5,
+      "fiber_g": 2.1,
+      "sugar_g": 6,
+      "sodium_mg": 460
+    },
+    "commonServing": {
+      "grams": 98,
+      "label": "1 bagel"
+    }
+  },
+  {
+    "id": "cereal-corn-flakes",
+    "name": "Cereal, corn flakes",
+    "category": "grain",
+    "aliases": [
+      "corn flakes",
+      "cereal"
+    ],
+    "per100g": {
+      "calories": 357,
+      "protein_g": 7.5,
+      "carbs_g": 84,
+      "fat_g": 0.4,
+      "fiber_g": 3,
+      "sugar_g": 8,
+      "sodium_mg": 660
+    },
+    "commonServing": {
+      "grams": 28,
+      "label": "1 cup"
+    }
+  },
+  {
+    "id": "broccoli-cooked",
+    "name": "Broccoli, cooked",
+    "category": "vegetable",
+    "aliases": [
+      "broccoli"
+    ],
+    "per100g": {
+      "calories": 35,
+      "protein_g": 2.4,
+      "carbs_g": 7.2,
+      "fat_g": 0.4,
+      "fiber_g": 3.3,
+      "sugar_g": 1.4,
+      "sodium_mg": 41
+    },
+    "commonServing": null
+  },
+  {
+    "id": "spinach-raw",
+    "name": "Spinach, raw",
+    "category": "vegetable",
+    "aliases": [
+      "spinach"
+    ],
+    "per100g": {
+      "calories": 23,
+      "protein_g": 2.9,
+      "carbs_g": 3.6,
+      "fat_g": 0.4,
+      "fiber_g": 2.2,
+      "sugar_g": 0.4,
+      "sodium_mg": 79
+    },
+    "commonServing": null
+  },
+  {
+    "id": "carrot-raw",
+    "name": "Carrot, raw",
+    "category": "vegetable",
+    "aliases": [
+      "carrot",
+      "carrots"
+    ],
+    "per100g": {
+      "calories": 41,
+      "protein_g": 0.9,
+      "carbs_g": 9.6,
+      "fat_g": 0.2,
+      "fiber_g": 2.8,
+      "sugar_g": 4.7,
+      "sodium_mg": 69
+    },
+    "commonServing": {
+      "grams": 61,
+      "label": "1 medium"
+    }
+  },
+  {
+    "id": "bell-pepper",
+    "name": "Bell pepper",
+    "category": "vegetable",
+    "aliases": [
+      "capsicum",
+      "pepper"
+    ],
+    "per100g": {
+      "calories": 31,
+      "protein_g": 1,
+      "carbs_g": 6,
+      "fat_g": 0.3,
+      "fiber_g": 2.1,
+      "sugar_g": 4.2,
+      "sodium_mg": 4
+    },
+    "commonServing": null
+  },
+  {
+    "id": "tomato",
+    "name": "Tomato",
+    "category": "vegetable",
+    "aliases": [
+      "tomatoes"
+    ],
+    "per100g": {
+      "calories": 18,
+      "protein_g": 0.9,
+      "carbs_g": 3.9,
+      "fat_g": 0.2,
+      "fiber_g": 1.2,
+      "sugar_g": 2.6,
+      "sodium_mg": 5
+    },
+    "commonServing": {
+      "grams": 123,
+      "label": "1 medium"
+    }
+  },
+  {
+    "id": "cucumber",
+    "name": "Cucumber",
+    "category": "vegetable",
+    "aliases": [
+      "cucumbers"
+    ],
+    "per100g": {
+      "calories": 15,
+      "protein_g": 0.7,
+      "carbs_g": 3.6,
+      "fat_g": 0.1,
+      "fiber_g": 0.5,
+      "sugar_g": 1.7,
+      "sodium_mg": 2
+    },
+    "commonServing": null
+  },
+  {
+    "id": "lettuce-romaine",
+    "name": "Lettuce, romaine",
+    "category": "vegetable",
+    "aliases": [
+      "lettuce",
+      "salad greens"
+    ],
+    "per100g": {
+      "calories": 17,
+      "protein_g": 1.2,
+      "carbs_g": 3.3,
+      "fat_g": 0.3,
+      "fiber_g": 2.1,
+      "sugar_g": 1.2,
+      "sodium_mg": 8
+    },
+    "commonServing": null
+  },
+  {
+    "id": "onion",
+    "name": "Onion",
+    "category": "vegetable",
+    "aliases": [
+      "onions"
+    ],
+    "per100g": {
+      "calories": 40,
+      "protein_g": 1.1,
+      "carbs_g": 9.3,
+      "fat_g": 0.1,
+      "fiber_g": 1.7,
+      "sugar_g": 4.2,
+      "sodium_mg": 4
+    },
+    "commonServing": null
+  },
+  {
+    "id": "garlic",
+    "name": "Garlic",
+    "category": "vegetable",
+    "aliases": [
+      "garlic clove"
+    ],
+    "per100g": {
+      "calories": 149,
+      "protein_g": 6.4,
+      "carbs_g": 33,
+      "fat_g": 0.5,
+      "fiber_g": 2.1,
+      "sugar_g": 1,
+      "sodium_mg": 17
+    },
+    "commonServing": {
+      "grams": 3,
+      "label": "1 clove"
+    }
+  },
+  {
+    "id": "mushroom",
+    "name": "Mushroom",
+    "category": "vegetable",
+    "aliases": [
+      "mushrooms"
+    ],
+    "per100g": {
+      "calories": 22,
+      "protein_g": 3.1,
+      "carbs_g": 3.3,
+      "fat_g": 0.3,
+      "fiber_g": 1,
+      "sugar_g": 2,
+      "sodium_mg": 5
+    },
+    "commonServing": null
+  },
+  {
+    "id": "zucchini",
+    "name": "Zucchini",
+    "category": "vegetable",
+    "aliases": [
+      "courgette"
+    ],
+    "per100g": {
+      "calories": 17,
+      "protein_g": 1.2,
+      "carbs_g": 3.1,
+      "fat_g": 0.3,
+      "fiber_g": 1,
+      "sugar_g": 2.5,
+      "sodium_mg": 8
+    },
+    "commonServing": null
+  },
+  {
+    "id": "cauliflower-cooked",
+    "name": "Cauliflower, cooked",
+    "category": "vegetable",
+    "aliases": [
+      "cauliflower"
+    ],
+    "per100g": {
+      "calories": 25,
+      "protein_g": 1.9,
+      "carbs_g": 5,
+      "fat_g": 0.3,
+      "fiber_g": 2,
+      "sugar_g": 2,
+      "sodium_mg": 15
+    },
+    "commonServing": null
+  },
+  {
+    "id": "asparagus-cooked",
+    "name": "Asparagus, cooked",
+    "category": "vegetable",
+    "aliases": [
+      "asparagus"
+    ],
+    "per100g": {
+      "calories": 20,
+      "protein_g": 2.2,
+      "carbs_g": 3.9,
+      "fat_g": 0.1,
+      "fiber_g": 2.1,
+      "sugar_g": 1.3,
+      "sodium_mg": 14
+    },
+    "commonServing": null
+  },
+  {
+    "id": "green-beans-cooked",
+    "name": "Green beans, cooked",
+    "category": "vegetable",
+    "aliases": [
+      "green beans",
+      "string beans"
+    ],
+    "per100g": {
+      "calories": 31,
+      "protein_g": 1.8,
+      "carbs_g": 7,
+      "fat_g": 0.2,
+      "fiber_g": 2.7,
+      "sugar_g": 3.3,
+      "sodium_mg": 6
+    },
+    "commonServing": null
+  },
+  {
+    "id": "kale-raw",
+    "name": "Kale, raw",
+    "category": "vegetable",
+    "aliases": [
+      "kale"
+    ],
+    "per100g": {
+      "calories": 49,
+      "protein_g": 4.3,
+      "carbs_g": 8.8,
+      "fat_g": 0.9,
+      "fiber_g": 3.6,
+      "sugar_g": 2.3,
+      "sodium_mg": 38
+    },
+    "commonServing": null
+  },
+  {
+    "id": "avocado",
+    "name": "Avocado",
+    "category": "vegetable",
+    "aliases": [
+      "avocado"
+    ],
+    "per100g": {
+      "calories": 160,
+      "protein_g": 2,
+      "carbs_g": 8.5,
+      "fat_g": 14.7,
+      "fiber_g": 6.7,
+      "sugar_g": 0.7,
+      "sodium_mg": 7
+    },
+    "commonServing": {
+      "grams": 150,
+      "label": "1 medium"
+    }
+  },
+  {
+    "id": "apple",
+    "name": "Apple",
+    "category": "fruit",
+    "aliases": [
+      "apples"
+    ],
+    "per100g": {
+      "calories": 52,
+      "protein_g": 0.3,
+      "carbs_g": 13.8,
+      "fat_g": 0.2,
+      "fiber_g": 2.4,
+      "sugar_g": 10.4,
+      "sodium_mg": 1
+    },
+    "commonServing": {
+      "grams": 182,
+      "label": "1 medium"
+    }
+  },
+  {
+    "id": "banana",
+    "name": "Banana",
+    "category": "fruit",
+    "aliases": [
+      "bananas"
+    ],
+    "per100g": {
+      "calories": 89,
+      "protein_g": 1.1,
+      "carbs_g": 22.8,
+      "fat_g": 0.3,
+      "fiber_g": 2.6,
+      "sugar_g": 12.2,
+      "sodium_mg": 1
+    },
+    "commonServing": {
+      "grams": 118,
+      "label": "1 medium"
+    }
+  },
+  {
+    "id": "orange",
+    "name": "Orange",
+    "category": "fruit",
+    "aliases": [
+      "oranges"
+    ],
+    "per100g": {
+      "calories": 47,
+      "protein_g": 0.9,
+      "carbs_g": 11.8,
+      "fat_g": 0.1,
+      "fiber_g": 2.4,
+      "sugar_g": 9.4,
+      "sodium_mg": 0
+    },
+    "commonServing": {
+      "grams": 131,
+      "label": "1 medium"
+    }
+  },
+  {
+    "id": "strawberries",
+    "name": "Strawberries",
+    "category": "fruit",
+    "aliases": [
+      "strawberry"
+    ],
+    "per100g": {
+      "calories": 32,
+      "protein_g": 0.7,
+      "carbs_g": 7.7,
+      "fat_g": 0.3,
+      "fiber_g": 2,
+      "sugar_g": 4.9,
+      "sodium_mg": 1
+    },
+    "commonServing": {
+      "grams": 152,
+      "label": "1 cup"
+    }
+  },
+  {
+    "id": "blueberries",
+    "name": "Blueberries",
+    "category": "fruit",
+    "aliases": [
+      "blueberry"
+    ],
+    "per100g": {
+      "calories": 57,
+      "protein_g": 0.7,
+      "carbs_g": 14.5,
+      "fat_g": 0.3,
+      "fiber_g": 2.4,
+      "sugar_g": 10,
+      "sodium_mg": 1
+    },
+    "commonServing": {
+      "grams": 148,
+      "label": "1 cup"
+    }
+  },
+  {
+    "id": "grapes",
+    "name": "Grapes",
+    "category": "fruit",
+    "aliases": [
+      "grape"
+    ],
+    "per100g": {
+      "calories": 69,
+      "protein_g": 0.7,
+      "carbs_g": 18.1,
+      "fat_g": 0.2,
+      "fiber_g": 0.9,
+      "sugar_g": 15.5,
+      "sodium_mg": 2
+    },
+    "commonServing": {
+      "grams": 151,
+      "label": "1 cup"
+    }
+  },
+  {
+    "id": "watermelon",
+    "name": "Watermelon",
+    "category": "fruit",
+    "aliases": [],
+    "per100g": {
+      "calories": 30,
+      "protein_g": 0.6,
+      "carbs_g": 7.6,
+      "fat_g": 0.2,
+      "fiber_g": 0.4,
+      "sugar_g": 6.2,
+      "sodium_mg": 1
+    },
+    "commonServing": {
+      "grams": 152,
+      "label": "1 cup"
+    }
+  },
+  {
+    "id": "pineapple",
+    "name": "Pineapple",
+    "category": "fruit",
+    "aliases": [],
+    "per100g": {
+      "calories": 50,
+      "protein_g": 0.5,
+      "carbs_g": 13.1,
+      "fat_g": 0.1,
+      "fiber_g": 1.4,
+      "sugar_g": 9.9,
+      "sodium_mg": 1
+    },
+    "commonServing": {
+      "grams": 165,
+      "label": "1 cup"
+    }
+  },
+  {
+    "id": "mango",
+    "name": "Mango",
+    "category": "fruit",
+    "aliases": [
+      "mangoes"
+    ],
+    "per100g": {
+      "calories": 60,
+      "protein_g": 0.8,
+      "carbs_g": 15,
+      "fat_g": 0.4,
+      "fiber_g": 1.6,
+      "sugar_g": 13.7,
+      "sodium_mg": 1
+    },
+    "commonServing": {
+      "grams": 165,
+      "label": "1 cup"
+    }
+  },
+  {
+    "id": "peach",
+    "name": "Peach",
+    "category": "fruit",
+    "aliases": [
+      "peaches"
+    ],
+    "per100g": {
+      "calories": 39,
+      "protein_g": 0.9,
+      "carbs_g": 9.5,
+      "fat_g": 0.3,
+      "fiber_g": 1.5,
+      "sugar_g": 8.4,
+      "sodium_mg": 0
+    },
+    "commonServing": {
+      "grams": 150,
+      "label": "1 medium"
+    }
+  },
+  {
+    "id": "pear",
+    "name": "Pear",
+    "category": "fruit",
+    "aliases": [
+      "pears"
+    ],
+    "per100g": {
+      "calories": 57,
+      "protein_g": 0.4,
+      "carbs_g": 15.2,
+      "fat_g": 0.1,
+      "fiber_g": 3.1,
+      "sugar_g": 9.8,
+      "sodium_mg": 1
+    },
+    "commonServing": {
+      "grams": 178,
+      "label": "1 medium"
+    }
+  },
+  {
+    "id": "kiwi",
+    "name": "Kiwi",
+    "category": "fruit",
+    "aliases": [
+      "kiwifruit"
+    ],
+    "per100g": {
+      "calories": 61,
+      "protein_g": 1.1,
+      "carbs_g": 14.7,
+      "fat_g": 0.5,
+      "fiber_g": 3,
+      "sugar_g": 9,
+      "sodium_mg": 3
+    },
+    "commonServing": {
+      "grams": 69,
+      "label": "1 medium"
+    }
+  },
+  {
+    "id": "raspberries",
+    "name": "Raspberries",
+    "category": "fruit",
+    "aliases": [
+      "raspberry"
+    ],
+    "per100g": {
+      "calories": 52,
+      "protein_g": 1.2,
+      "carbs_g": 11.9,
+      "fat_g": 0.7,
+      "fiber_g": 6.5,
+      "sugar_g": 4.4,
+      "sodium_mg": 1
+    },
+    "commonServing": {
+      "grams": 123,
+      "label": "1 cup"
+    }
+  },
+  {
+    "id": "milk-whole",
+    "name": "Milk, whole",
+    "category": "dairy",
+    "aliases": [
+      "whole milk",
+      "milk"
+    ],
+    "per100g": {
+      "calories": 61,
+      "protein_g": 3.2,
+      "carbs_g": 4.8,
+      "fat_g": 3.3,
+      "fiber_g": 0,
+      "sugar_g": 5.1,
+      "sodium_mg": 40
+    },
+    "commonServing": {
+      "grams": 244,
+      "label": "1 cup"
+    }
+  },
+  {
+    "id": "milk-skim",
+    "name": "Milk, skim",
+    "category": "dairy",
+    "aliases": [
+      "skim milk",
+      "nonfat milk"
+    ],
+    "per100g": {
+      "calories": 34,
+      "protein_g": 3.4,
+      "carbs_g": 5,
+      "fat_g": 0.1,
+      "fiber_g": 0,
+      "sugar_g": 5.1,
+      "sodium_mg": 42
+    },
+    "commonServing": {
+      "grams": 245,
+      "label": "1 cup"
+    }
+  },
+  {
+    "id": "greek-yogurt-plain-nonfat",
+    "name": "Greek yogurt, plain nonfat",
+    "category": "dairy",
+    "aliases": [
+      "greek yogurt",
+      "yogurt"
+    ],
+    "per100g": {
+      "calories": 59,
+      "protein_g": 10.2,
+      "carbs_g": 3.6,
+      "fat_g": 0.4,
+      "fiber_g": 0,
+      "sugar_g": 3.2,
+      "sodium_mg": 36
+    },
+    "commonServing": {
+      "grams": 245,
+      "label": "1 cup"
+    }
+  },
+  {
+    "id": "yogurt-plain-whole-milk",
+    "name": "Yogurt, plain whole milk",
+    "category": "dairy",
+    "aliases": [
+      "yoghurt"
+    ],
+    "per100g": {
+      "calories": 61,
+      "protein_g": 3.5,
+      "carbs_g": 4.7,
+      "fat_g": 3.3,
+      "fiber_g": 0,
+      "sugar_g": 4.7,
+      "sodium_mg": 46
+    },
+    "commonServing": {
+      "grams": 245,
+      "label": "1 cup"
+    }
+  },
+  {
+    "id": "cheddar-cheese",
+    "name": "Cheddar cheese",
+    "category": "dairy",
+    "aliases": [
+      "cheddar",
+      "cheese"
+    ],
+    "per100g": {
+      "calories": 403,
+      "protein_g": 25,
+      "carbs_g": 1.3,
+      "fat_g": 33,
+      "fiber_g": 0,
+      "sugar_g": 0.5,
+      "sodium_mg": 621
+    },
+    "commonServing": {
+      "grams": 28,
+      "label": "1 slice"
+    }
+  },
+  {
+    "id": "mozzarella-cheese",
+    "name": "Mozzarella cheese",
+    "category": "dairy",
+    "aliases": [
+      "mozzarella"
+    ],
+    "per100g": {
+      "calories": 280,
+      "protein_g": 28,
+      "carbs_g": 3.1,
+      "fat_g": 17,
+      "fiber_g": 0,
+      "sugar_g": 1,
+      "sodium_mg": 627
+    },
+    "commonServing": {
+      "grams": 28,
+      "label": "1 oz"
+    }
+  },
+  {
+    "id": "cottage-cheese",
+    "name": "Cottage cheese",
+    "category": "dairy",
+    "aliases": [],
+    "per100g": {
+      "calories": 98,
+      "protein_g": 11.1,
+      "carbs_g": 3.4,
+      "fat_g": 4.3,
+      "fiber_g": 0,
+      "sugar_g": 2.7,
+      "sodium_mg": 364
+    },
+    "commonServing": {
+      "grams": 113,
+      "label": "1/2 cup"
+    }
+  },
+  {
+    "id": "butter",
+    "name": "Butter",
+    "category": "dairy",
+    "aliases": [],
+    "per100g": {
+      "calories": 717,
+      "protein_g": 0.9,
+      "carbs_g": 0.1,
+      "fat_g": 81.1,
+      "fiber_g": 0,
+      "sugar_g": 0.1,
+      "sodium_mg": 11
+    },
+    "commonServing": {
+      "grams": 14,
+      "label": "1 tbsp"
+    }
+  },
+  {
+    "id": "almond-milk-unsweetened",
+    "name": "Almond milk, unsweetened",
+    "category": "dairy",
+    "aliases": [
+      "almond milk"
+    ],
+    "per100g": {
+      "calories": 17,
+      "protein_g": 0.6,
+      "carbs_g": 0.6,
+      "fat_g": 1.5,
+      "fiber_g": 0.5,
+      "sugar_g": 0.2,
+      "sodium_mg": 63
+    },
+    "commonServing": {
+      "grams": 244,
+      "label": "1 cup"
+    }
+  },
+  {
+    "id": "soy-milk-unsweetened",
+    "name": "Soy milk, unsweetened",
+    "category": "dairy",
+    "aliases": [
+      "soy milk",
+      "soya milk"
+    ],
+    "per100g": {
+      "calories": 33,
+      "protein_g": 3.3,
+      "carbs_g": 1.8,
+      "fat_g": 1.8,
+      "fiber_g": 0.6,
+      "sugar_g": 1,
+      "sodium_mg": 51
+    },
+    "commonServing": {
+      "grams": 244,
+      "label": "1 cup"
+    }
+  },
+  {
+    "id": "almonds",
+    "name": "Almonds",
+    "category": "nuts_fats",
+    "aliases": [
+      "almond"
+    ],
+    "per100g": {
+      "calories": 579,
+      "protein_g": 21.2,
+      "carbs_g": 21.6,
+      "fat_g": 49.9,
+      "fiber_g": 12.5,
+      "sugar_g": 4.4,
+      "sodium_mg": 1
+    },
+    "commonServing": {
+      "grams": 28,
+      "label": "1 oz, ~23 nuts"
+    }
+  },
+  {
+    "id": "peanut-butter",
+    "name": "Peanut butter",
+    "category": "nuts_fats",
+    "aliases": [
+      "peanut butter"
+    ],
+    "per100g": {
+      "calories": 588,
+      "protein_g": 25,
+      "carbs_g": 20,
+      "fat_g": 50,
+      "fiber_g": 6,
+      "sugar_g": 9,
+      "sodium_mg": 459
+    },
+    "commonServing": {
+      "grams": 32,
+      "label": "2 tbsp"
+    }
+  },
+  {
+    "id": "walnuts",
+    "name": "Walnuts",
+    "category": "nuts_fats",
+    "aliases": [
+      "walnut"
+    ],
+    "per100g": {
+      "calories": 654,
+      "protein_g": 15.2,
+      "carbs_g": 13.7,
+      "fat_g": 65.2,
+      "fiber_g": 6.7,
+      "sugar_g": 2.6,
+      "sodium_mg": 2
+    },
+    "commonServing": {
+      "grams": 28,
+      "label": "1 oz"
+    }
+  },
+  {
+    "id": "chia-seeds",
+    "name": "Chia seeds",
+    "category": "nuts_fats",
+    "aliases": [
+      "chia"
+    ],
+    "per100g": {
+      "calories": 486,
+      "protein_g": 16.5,
+      "carbs_g": 42.1,
+      "fat_g": 30.7,
+      "fiber_g": 34.4,
+      "sugar_g": 0,
+      "sodium_mg": 16
+    },
+    "commonServing": {
+      "grams": 28,
+      "label": "1 oz"
+    }
+  },
+  {
+    "id": "olive-oil",
+    "name": "Olive oil",
+    "category": "nuts_fats",
+    "aliases": [
+      "oil"
+    ],
+    "per100g": {
+      "calories": 884,
+      "protein_g": 0,
+      "carbs_g": 0,
+      "fat_g": 100,
+      "fiber_g": 0,
+      "sugar_g": 0,
+      "sodium_mg": 2
+    },
+    "commonServing": {
+      "grams": 14,
+      "label": "1 tbsp"
+    }
+  },
+  {
+    "id": "peanuts",
+    "name": "Peanuts",
+    "category": "nuts_fats",
+    "aliases": [
+      "peanut"
+    ],
+    "per100g": {
+      "calories": 567,
+      "protein_g": 25.8,
+      "carbs_g": 16.1,
+      "fat_g": 49.2,
+      "fiber_g": 8.5,
+      "sugar_g": 4.7,
+      "sodium_mg": 18
+    },
+    "commonServing": {
+      "grams": 28,
+      "label": "1 oz"
+    }
+  },
+  {
+    "id": "cashews",
+    "name": "Cashews",
+    "category": "nuts_fats",
+    "aliases": [
+      "cashew"
+    ],
+    "per100g": {
+      "calories": 553,
+      "protein_g": 18.2,
+      "carbs_g": 30.2,
+      "fat_g": 43.9,
+      "fiber_g": 3.3,
+      "sugar_g": 5.9,
+      "sodium_mg": 12
+    },
+    "commonServing": {
+      "grams": 28,
+      "label": "1 oz"
+    }
+  },
+  {
+    "id": "dark-chocolate-70-85",
+    "name": "Dark chocolate 70-85%",
+    "category": "snack",
+    "aliases": [
+      "dark chocolate",
+      "chocolate"
+    ],
+    "per100g": {
+      "calories": 598,
+      "protein_g": 7.8,
+      "carbs_g": 45.9,
+      "fat_g": 42.6,
+      "fiber_g": 10.9,
+      "sugar_g": 24,
+      "sodium_mg": 20
+    },
+    "commonServing": {
+      "grams": 28,
+      "label": "1 oz"
+    }
+  },
+  {
+    "id": "potato-chips",
+    "name": "Potato chips",
+    "category": "snack",
+    "aliases": [
+      "chips",
+      "crisps"
+    ],
+    "per100g": {
+      "calories": 536,
+      "protein_g": 7,
+      "carbs_g": 53,
+      "fat_g": 34.6,
+      "fiber_g": 4.4,
+      "sugar_g": 0.5,
+      "sodium_mg": 525
+    },
+    "commonServing": {
+      "grams": 28,
+      "label": "1 oz, small bag"
+    }
+  },
+  {
+    "id": "popcorn-air-popped",
+    "name": "Popcorn, air-popped",
+    "category": "snack",
+    "aliases": [
+      "popcorn"
+    ],
+    "per100g": {
+      "calories": 387,
+      "protein_g": 12.9,
+      "carbs_g": 78,
+      "fat_g": 4.5,
+      "fiber_g": 14.5,
+      "sugar_g": 0.9,
+      "sodium_mg": 8
+    },
+    "commonServing": {
+      "grams": 8,
+      "label": "1 cup"
+    }
+  },
+  {
+    "id": "honey",
+    "name": "Honey",
+    "category": "snack",
+    "aliases": [],
+    "per100g": {
+      "calories": 304,
+      "protein_g": 0.3,
+      "carbs_g": 82.4,
+      "fat_g": 0,
+      "fiber_g": 0.2,
+      "sugar_g": 82.1,
+      "sodium_mg": 4
+    },
+    "commonServing": {
+      "grams": 21,
+      "label": "1 tbsp"
+    }
+  },
+  {
+    "id": "sugar-white-granulated",
+    "name": "Sugar, white granulated",
+    "category": "snack",
+    "aliases": [
+      "sugar"
+    ],
+    "per100g": {
+      "calories": 387,
+      "protein_g": 0,
+      "carbs_g": 100,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sugar_g": 100,
+      "sodium_mg": 1
+    },
+    "commonServing": {
+      "grams": 4,
+      "label": "1 tsp"
+    }
+  },
+  {
+    "id": "ketchup",
+    "name": "Ketchup",
+    "category": "snack",
+    "aliases": [
+      "tomato sauce"
+    ],
+    "per100g": {
+      "calories": 101,
+      "protein_g": 1.2,
+      "carbs_g": 25.8,
+      "fat_g": 0.2,
+      "fiber_g": 0.4,
+      "sugar_g": 21.3,
+      "sodium_mg": 907
+    },
+    "commonServing": {
+      "grams": 17,
+      "label": "1 tbsp"
+    }
+  },
+  {
+    "id": "mayonnaise",
+    "name": "Mayonnaise",
+    "category": "snack",
+    "aliases": [
+      "mayo"
+    ],
+    "per100g": {
+      "calories": 680,
+      "protein_g": 1,
+      "carbs_g": 0.6,
+      "fat_g": 75,
+      "fiber_g": 0,
+      "sugar_g": 0.6,
+      "sodium_mg": 470
+    },
+    "commonServing": {
+      "grams": 14,
+      "label": "1 tbsp"
+    }
+  },
+  {
+    "id": "hummus",
+    "name": "Hummus",
+    "category": "snack",
+    "aliases": [],
+    "per100g": {
+      "calories": 166,
+      "protein_g": 7.9,
+      "carbs_g": 14.3,
+      "fat_g": 9.6,
+      "fiber_g": 6,
+      "sugar_g": 0.3,
+      "sodium_mg": 379
+    },
+    "commonServing": {
+      "grams": 30,
+      "label": "2 tbsp"
+    }
+  },
+  {
+    "id": "granola-bar",
+    "name": "Granola bar",
+    "category": "snack",
+    "aliases": [
+      "muesli bar"
+    ],
+    "per100g": {
+      "calories": 471,
+      "protein_g": 10,
+      "carbs_g": 64,
+      "fat_g": 20,
+      "fiber_g": 6.5,
+      "sugar_g": 29,
+      "sodium_mg": 267
+    },
+    "commonServing": {
+      "grams": 40,
+      "label": "1 bar"
+    }
+  },
+  {
+    "id": "protein-bar",
+    "name": "Protein bar",
+    "category": "snack",
+    "aliases": [],
+    "per100g": {
+      "calories": 380,
+      "protein_g": 30,
+      "carbs_g": 38,
+      "fat_g": 12,
+      "fiber_g": 10,
+      "sugar_g": 15,
+      "sodium_mg": 210
+    },
+    "commonServing": {
+      "grams": 60,
+      "label": "1 bar"
+    }
+  },
+  {
+    "id": "ice-cream-vanilla",
+    "name": "Ice cream, vanilla",
+    "category": "snack",
+    "aliases": [
+      "ice cream"
+    ],
+    "per100g": {
+      "calories": 207,
+      "protein_g": 3.5,
+      "carbs_g": 23.6,
+      "fat_g": 11,
+      "fiber_g": 0.7,
+      "sugar_g": 21.2,
+      "sodium_mg": 80
+    },
+    "commonServing": {
+      "grams": 66,
+      "label": "1/2 cup"
+    }
+  },
+  {
+    "id": "orange-juice",
+    "name": "Orange juice",
+    "category": "beverage",
+    "aliases": [
+      "oj",
+      "orange juice"
+    ],
+    "per100g": {
+      "calories": 45,
+      "protein_g": 0.7,
+      "carbs_g": 10.4,
+      "fat_g": 0.2,
+      "fiber_g": 0.2,
+      "sugar_g": 8.4,
+      "sodium_mg": 1
+    },
+    "commonServing": {
+      "grams": 248,
+      "label": "1 cup"
+    }
+  },
+  {
+    "id": "coffee-black",
+    "name": "Coffee, black",
+    "category": "beverage",
+    "aliases": [
+      "coffee"
+    ],
+    "per100g": {
+      "calories": 2,
+      "protein_g": 0.3,
+      "carbs_g": 0,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sugar_g": 0,
+      "sodium_mg": 5
+    },
+    "commonServing": {
+      "grams": 240,
+      "label": "1 cup"
+    }
+  },
+  {
+    "id": "cola-soda",
+    "name": "Cola, soda",
+    "category": "beverage",
+    "aliases": [
+      "soda",
+      "coke",
+      "cola"
+    ],
+    "per100g": {
+      "calories": 42,
+      "protein_g": 0,
+      "carbs_g": 10.6,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sugar_g": 10.6,
+      "sodium_mg": 4
+    },
+    "commonServing": {
+      "grams": 355,
+      "label": "1 can"
+    }
+  },
+  {
+    "id": "beer",
+    "name": "Beer",
+    "category": "beverage",
+    "aliases": [],
+    "per100g": {
+      "calories": 43,
+      "protein_g": 0.5,
+      "carbs_g": 3.6,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sugar_g": 0,
+      "sodium_mg": 4
+    },
+    "commonServing": {
+      "grams": 355,
+      "label": "1 can"
+    }
+  },
+  {
+    "id": "red-wine",
+    "name": "Red wine",
+    "category": "beverage",
+    "aliases": [
+      "wine"
+    ],
+    "per100g": {
+      "calories": 85,
+      "protein_g": 0.1,
+      "carbs_g": 2.6,
+      "fat_g": 0,
+      "fiber_g": 0,
+      "sugar_g": 0.6,
+      "sodium_mg": 4
+    },
+    "commonServing": {
+      "grams": 148,
+      "label": "1 glass"
+    }
+  },
+  {
+    "id": "protein-shake-whey-with-water",
+    "name": "Protein shake, whey with water",
+    "category": "beverage",
+    "aliases": [
+      "protein shake",
+      "whey shake"
+    ],
+    "per100g": {
+      "calories": 103,
+      "protein_g": 20,
+      "carbs_g": 3,
+      "fat_g": 1.5,
+      "fiber_g": 0.5,
+      "sugar_g": 2,
+      "sodium_mg": 130
+    },
+    "commonServing": {
+      "grams": 300,
+      "label": "1 scoop + water"
+    }
+  },
+  {
+    "id": "smoothie-mixed-berry",
+    "name": "Smoothie, mixed berry",
+    "category": "beverage",
+    "aliases": [
+      "smoothie"
+    ],
+    "per100g": {
+      "calories": 61,
+      "protein_g": 0.9,
+      "carbs_g": 14.3,
+      "fat_g": 0.4,
+      "fiber_g": 1.6,
+      "sugar_g": 10.8,
+      "sodium_mg": 7
+    },
+    "commonServing": {
+      "grams": 250,
+      "label": "1 cup"
+    }
+  },
+  {
+    "id": "french-fries",
+    "name": "French fries",
+    "category": "dish",
+    "aliases": [
+      "fries",
+      "chips (fries)"
+    ],
+    "per100g": {
+      "calories": 312,
+      "protein_g": 3.4,
+      "carbs_g": 41,
+      "fat_g": 15,
+      "fiber_g": 3.8,
+      "sugar_g": 0.5,
+      "sodium_mg": 210
+    },
+    "commonServing": {
+      "grams": 117,
+      "label": "medium serving"
+    }
+  },
+  {
+    "id": "pizza-cheese",
+    "name": "Pizza, cheese",
+    "category": "dish",
+    "aliases": [
+      "pizza",
+      "cheese pizza"
+    ],
+    "per100g": {
+      "calories": 266,
+      "protein_g": 11,
+      "carbs_g": 33,
+      "fat_g": 10,
+      "fiber_g": 2.3,
+      "sugar_g": 3.6,
+      "sodium_mg": 598
+    },
+    "commonServing": {
+      "grams": 107,
+      "label": "1 slice"
+    }
+  },
+  {
+    "id": "hamburger-cheeseburger",
+    "name": "Hamburger, cheeseburger",
+    "category": "dish",
+    "aliases": [
+      "cheeseburger",
+      "hamburger",
+      "burger"
+    ],
+    "per100g": {
+      "calories": 295,
+      "protein_g": 17,
+      "carbs_g": 24,
+      "fat_g": 14,
+      "fiber_g": 1.3,
+      "sugar_g": 5,
+      "sodium_mg": 616
+    },
+    "commonServing": {
+      "grams": 150,
+      "label": "1 burger"
+    }
+  },
+  {
+    "id": "spaghetti-bolognese",
+    "name": "Spaghetti bolognese",
+    "category": "dish",
+    "aliases": [
+      "bolognese",
+      "pasta with meat sauce"
+    ],
+    "per100g": {
+      "calories": 151,
+      "protein_g": 7.9,
+      "carbs_g": 16.6,
+      "fat_g": 6,
+      "fiber_g": 1.7,
+      "sugar_g": 3.4,
+      "sodium_mg": 320
+    },
+    "commonServing": {
+      "grams": 350,
+      "label": "1 plate"
+    }
+  },
+  {
+    "id": "caesar-salad-with-dressing",
+    "name": "Caesar salad with dressing",
+    "category": "dish",
+    "aliases": [
+      "caesar salad"
+    ],
+    "per100g": {
+      "calories": 190,
+      "protein_g": 4,
+      "carbs_g": 8,
+      "fat_g": 17,
+      "fiber_g": 1.5,
+      "sugar_g": 2,
+      "sodium_mg": 380
+    },
+    "commonServing": {
+      "grams": 200,
+      "label": "1 bowl"
+    }
+  },
+  {
+    "id": "sushi-california-roll",
+    "name": "Sushi, california roll",
+    "category": "dish",
+    "aliases": [
+      "california roll",
+      "sushi roll",
+      "sushi"
+    ],
+    "per100g": {
+      "calories": 145,
+      "protein_g": 5.8,
+      "carbs_g": 25,
+      "fat_g": 2.4,
+      "fiber_g": 1.6,
+      "sugar_g": 4,
+      "sodium_mg": 320
+    },
+    "commonServing": {
+      "grams": 170,
+      "label": "1 roll, 8 pcs"
+    }
+  },
+  {
+    "id": "fried-rice",
+    "name": "Fried rice",
+    "category": "dish",
+    "aliases": [],
+    "per100g": {
+      "calories": 163,
+      "protein_g": 4.6,
+      "carbs_g": 20.1,
+      "fat_g": 7.3,
+      "fiber_g": 1,
+      "sugar_g": 1.2,
+      "sodium_mg": 380
+    },
+    "commonServing": {
+      "grams": 300,
+      "label": "1 plate"
+    }
+  },
+  {
+    "id": "pancakes-plain",
+    "name": "Pancakes, plain",
+    "category": "dish",
+    "aliases": [
+      "pancake"
+    ],
+    "per100g": {
+      "calories": 227,
+      "protein_g": 6.4,
+      "carbs_g": 28,
+      "fat_g": 9.7,
+      "fiber_g": 0.9,
+      "sugar_g": 6,
+      "sodium_mg": 439
+    },
+    "commonServing": {
+      "grams": 77,
+      "label": "1 pancake"
+    }
+  },
+  {
+    "id": "chicken-nuggets",
+    "name": "Chicken nuggets",
+    "category": "dish",
+    "aliases": [
+      "nuggets"
+    ],
+    "per100g": {
+      "calories": 296,
+      "protein_g": 15,
+      "carbs_g": 16,
+      "fat_g": 19,
+      "fiber_g": 1.1,
+      "sugar_g": 0.5,
+      "sodium_mg": 490
+    },
+    "commonServing": {
+      "grams": 100,
+      "label": "~5 pieces"
+    }
+  },
+  {
+    "id": "french-toast",
+    "name": "French toast",
+    "category": "dish",
+    "aliases": [],
+    "per100g": {
+      "calories": 229,
+      "protein_g": 8,
+      "carbs_g": 28,
+      "fat_g": 9,
+      "fiber_g": 1.2,
+      "sugar_g": 7,
+      "sodium_mg": 350
+    },
+    "commonServing": {
+      "grams": 65,
+      "label": "1 slice"
+    }
+  },
+  {
+    "id": "grilled-cheese-sandwich",
+    "name": "Grilled cheese sandwich",
+    "category": "dish",
+    "aliases": [],
+    "per100g": {
+      "calories": 330,
+      "protein_g": 13,
+      "carbs_g": 28,
+      "fat_g": 18,
+      "fiber_g": 1.5,
+      "sugar_g": 4,
+      "sodium_mg": 700
+    },
+    "commonServing": {
+      "grams": 110,
+      "label": "1 sandwich"
+    }
+  },
+  {
+    "id": "waffles-plain",
+    "name": "Waffles, plain",
+    "category": "dish",
+    "aliases": [
+      "waffle"
+    ],
+    "per100g": {
+      "calories": 291,
+      "protein_g": 7.9,
+      "carbs_g": 32.9,
+      "fat_g": 14.1,
+      "fiber_g": 1.6,
+      "sugar_g": 6.5,
+      "sodium_mg": 615
+    },
+    "commonServing": {
+      "grams": 75,
+      "label": "1 waffle"
+    }
+  },
+  {
+    "id": "chicken-caesar-wrap",
+    "name": "Chicken caesar wrap",
+    "category": "dish",
+    "aliases": [
+      "caesar wrap"
+    ],
+    "per100g": {
+      "calories": 201,
+      "protein_g": 12,
+      "carbs_g": 18,
+      "fat_g": 9,
+      "fiber_g": 1.4,
+      "sugar_g": 2,
+      "sodium_mg": 480
+    },
+    "commonServing": {
+      "grams": 250,
+      "label": "1 wrap"
+    }
+  },
+  {
+    "id": "mac-and-cheese",
+    "name": "Mac and cheese",
+    "category": "dish",
+    "aliases": [
+      "macaroni and cheese",
+      "mac n cheese"
+    ],
+    "per100g": {
+      "calories": 164,
+      "protein_g": 6.4,
+      "carbs_g": 19.6,
+      "fat_g": 6.4,
+      "fiber_g": 0.8,
+      "sugar_g": 3,
+      "sodium_mg": 380
+    },
+    "commonServing": {
+      "grams": 200,
+      "label": "1 cup"
+    }
+  },
+  {
+    "id": "vegetable-stir-fry",
+    "name": "Vegetable stir fry",
+    "category": "dish",
+    "aliases": [
+      "stir fry"
+    ],
+    "per100g": {
+      "calories": 78,
+      "protein_g": 2.8,
+      "carbs_g": 10.5,
+      "fat_g": 3.2,
+      "fiber_g": 2.9,
+      "sugar_g": 4.1,
+      "sodium_mg": 320
+    },
+    "commonServing": {
+      "grams": 250,
+      "label": "1 plate"
+    }
+  }
+]

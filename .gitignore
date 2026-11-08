@@ -20,3 +20,8 @@ npm-debug.log*
 .DS_Store
 .vscode/
 .idea/
+
+# Kubernetes secrets / Jenkins kubeconfig
+k8s/secret.yaml
+kubeconfig-jenkins
+rendered/
